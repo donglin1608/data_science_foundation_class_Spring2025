@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power BI Dashboard</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+   <iframe title="Human Trafficking trend over states" src="https://app.powerbi.com/view?r=eyJrIjoiMWVkZDBkYzAtZTFhNS00YmUyLWJlZjAtMWIwN2RhNTc4OTNkIiwidCI6ImRmYzUwZjIzLTJjYTctNDliNC05YzMzLTYxODhmZDgzMTJjMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
