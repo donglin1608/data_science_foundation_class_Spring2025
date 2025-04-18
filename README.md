@@ -10,7 +10,7 @@ The project applies data science techniques to analyze and detect patterns relat
 
 ## Citation Resources
 
-- Human trafficking reports covering all 50 states over a 5-year period  
+- Human trafficking reports covering all 50 states over a 4-year period  
 - Power BI dashboard and analysis  
 - Experimental text-thematic analysis (NLP on case narratives and victim interviews)  
 - Final research report with findings and insights
